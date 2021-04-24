@@ -6,4 +6,5 @@
 <h2> Deploying on Docker Container </h2>
 <h2> Make changes to start automatic build and fail as already a same name docker image is present </h2>
 <h2> Adding changes to check deployment using Ansible </h2>
+<h2> Verifying the deployment using AnsiblePlaybook </h2><h2> Verifying the deployment using AnsiblePlaybook </h2>
 <h2> Glad to see you here </h2>
